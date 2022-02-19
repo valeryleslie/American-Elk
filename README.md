@@ -14,4 +14,4 @@ Technicalities:
 - Due to the nature of normal random variables, when negative rates were resulted from the program, a rate of 0% was instead taken
 - A display of the deterministic model with hacking is also performed as comparison
 - Data taken from previous reintroduction program is as below:
-
+![alt text](american-elk-data.png)
