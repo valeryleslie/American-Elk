@@ -15,3 +15,10 @@ Technicalities:
 - A display of the deterministic model with hacking is also performed as comparison
 - Data taken from previous reintroduction program is as below:
 ![alt text](american-elk-data.png)
+
+Results:
+A deterministic model run for a term of 10 years, with adjustments to rates, matching the available data, would result in:
+![alt text](deterministic_run.png)
+
+A stochastic, logistics model run for a term of 100 years would result in:
+![alt text](stochastic_run.png)
